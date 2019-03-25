@@ -1,5 +1,5 @@
 # UBaCHCS
-:1234: Unified Benthic and Coastal Habitat Classification Scheme
+:1234: Gulf-of-Mexico Unified Benthic and Coastal Habitat Classification Scheme
 
 # legend
 :large_blue_circle: NOAA [C-CAP](https://coast.noaa.gov/digitalcoast/tools/lca) class ([detail](https://coast.noaa.gov/data/digitalcoast/pdf/ccap-class-scheme-highres.pdf))
