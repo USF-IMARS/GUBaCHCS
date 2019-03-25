@@ -1,4 +1,4 @@
-# UBaCHCS
+# GUBaCHCS
 :1234: Gulf-of-Mexico Unified Benthic and Coastal Habitat Classification Scheme
 
 # legend
