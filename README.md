@@ -2,6 +2,8 @@
 :1234: Gulf-of-Mexico Unified Benthic and Coastal Habitat Schema
 
 # legend
+TODO: USGS [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database?qt-science_center_objects=0#qt-science_center_objects)
+
 :large_blue_circle: NOAA [C-CAP](https://coast.noaa.gov/digitalcoast/tools/lca) class ([detail](https://coast.noaa.gov/data/digitalcoast/pdf/ccap-class-scheme-highres.pdf))
     
 :palm_tree: [FWC FLUCCS (Florida Land Cover Classification System)](https://fdotwww.blob.core.windows.net/sitefinity/docs/default-source/content/geospatial/documentsandpubs/fluccmanual1999.pdf?sfvrsn=9881b4d0_0)
