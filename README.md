@@ -2,7 +2,7 @@
 :1234: Gulf-of-Mexico Unified Benthic and Coastal Habitat Schema
 
 # legend
-TODO: USGS [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database?qt-science_center_objects=0#qt-science_center_objects)
+TODO: SGS [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database?qt-science_center_objects=0#qt-science_center_objects) ([ref2](https://www.mrlc.gov/nlcd-2016-science-research-products))
 
 :large_blue_circle: NOAA [C-CAP](https://coast.noaa.gov/digitalcoast/tools/lca) class ([detail](https://coast.noaa.gov/data/digitalcoast/pdf/ccap-class-scheme-highres.pdf))
     
